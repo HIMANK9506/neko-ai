@@ -1,0 +1,15 @@
+# Build outputs
+build/
+*.hex
+*.elf
+*.bin
+*.map
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
